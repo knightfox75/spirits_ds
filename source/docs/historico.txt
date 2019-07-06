@@ -1,0 +1,99 @@
+--------------------------------------------------------------------------------
+2012/09/08 FINAL
+* Corregidos los textos en Ingles del tutorial. (Gracias a Another World de los
+  foros de GBATEMP).
+* Cambios menores en los graficos de los fondos de las plantas 2 y 3.
+* Nuevos graficos para el mapa en modo remake.
+* Ajustes menores en los graficos de la GUI.
+* Bug corregido en la animacion del personaje, que ocasionalmente
+  repetia la animacion de disparo del hechizo despues de un salto.
+* Bug que permitia saltarse a media escritura 2 paginas del
+  tutorial corregido.
+* Voces en Ingles añadidas (Gracias a BassAceGold de #palib).
+* Nuevo icono del juego.
+
+2012/08/22 RC4
+* Cambiadas las rutinas de ejecucion de efectos de sonido. Las voces y sfx
+  se reproducen ahora directamente via libnds sin usar maxmod.
+* Añadidos varios efectos de sonido.
+* Añadido un nuevo truco oculto, para revelar todo el mapa.
+
+
+2012/08/20 RC3
+* Algunos cambios menores en los graficos
+* Añadidos trucos en el juego a modo de huevo de pascua.
+
+
+- 2012/08/19 RC2
+* Añadidas las telarañas a los decorados.
+* Fuego de las calderas remakeado.
+* Añadido el menu de pausa.
+* Añadida pantalla animada de carga.
+* Añadidos varios temas musicales de fondo.
+* Quitadas las voces y sfx en modo remake para evitar bugs con MAXMOD. (temp)
+
+
+- 2012/08/16
+* Remakeada la sala del dragon.
+* Protagonista remakeado.
+* Antorchas y velas mejoradas.
+* Tutorial terminado.
+* Creditos terminados.
+* Varias mejoras graficas.
+
+
+- 2012/07/07
+* Añadido el menu principal en modo 8 bits.
+* Añadido el menu de opciones, con la posibilidad de poder seleccionar el modo
+  de juego (8 bits / Remake), el idioma (Español / Ingles) y el nivel de
+  intensidad del efecto "scanline" en modo 8 bits.
+* Añadida la autodeteccion de idioma segun la configuracion de la consola.
+* La configuracion del juego se guarda.
+* Los enemigos especiales "Diablo arquero" y "Gato" remakeados.
+* Las lamparas colgantes remakeadas.
+* Todos los Items principales remakeados.
+* Todos los enemigos genericos (Jorobado, hombre lobo y fantasma) remakeados.
+* PNJ Armadura, princesa encantada y aguila remakeadas.
+* Menu en modo remake terminado.
+* Menu de opciones en modo remake terminado.
+* Test inicial de musica para el juego y efectos de sonido.
+
+
+- 2012/06/06
+* Añadidas las antorchas y velas animadas.
+* Todos los fondos en Modo Remake listos (Excepto la sala del Dragon).
+* Presentacion y menu solo disponible en modo "8 bits".
+
+
+- 2012/05/07
+* Ahora puedes escoger entre modo original y modo remake al iniciar el juego.
+* Graficos de los nuevos fondos de la primera mitad del castillo completados.
+* Nuevo algoritmo de calculo de posiciones aleatorias de los objetos y algunas
+  posiciones corregidas.
+* Corregido el bug que permitia registrar el disparo de hechizo en la parte
+  superior de la escalera, provocando errores en el control del personaje.
+* Corregido el bug el cual si se perdia la ultima vida en la trampa de los 3
+  interruptores, en la siguiente partida estos aparecian desplazados.
+  (Gracias a araubi de los foros de CEZ por el aviso.)
+  
+
+- 2012/03/29
+* Corregido un bug en la animacion del personaje en el final del juego, el
+  cual hacia que el personaje fuera invisible si era inmune en el momento
+  de matar a la Aguila.
+* Añadida la funcion de "minimapa", presionando la tecla "X".
+
+
+- 2012/03/27
+* Añadida la animacion en las hogueras.
+* Añadida la transformacion de la princesa al ser desencantada.
+* Añadidos los enemigos "Gato" y "Diablo arquero".
+* Añadida la "Guarida del Dragon".
+* Añadida la funcion de pausa con "Start".
+* Añadida la escena de fin de juego.
+* Añadido un tiempo de inmunidad despues de resucitar.
+
+
+- 2012/03/14
+* Version Inicial.
+* Totalmente jugable en "modo 8 bits".

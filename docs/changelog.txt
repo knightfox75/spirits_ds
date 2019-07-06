@@ -1,0 +1,99 @@
+--------------------------------------------------------------------------------
+2012/09/08 FINAL
+* Fixed English texts of the tutorial. (Thanks to "Another World" from
+  GBAtemp forums).
+* Minor changes in the graphics of the backgrounds on floors 2 and 3.
+* New graphics for the map in remake mode.
+* Minor adjustments in GUI graphics.
+* Bug fixed in character animation, which occasionally
+  repeated the firing animation of the spell after a jump.
+* Fixed bug that allowed skipping pages of tutorial before press A message.
+* English voices added (Thanks to BassAceGold from #PAlib IRC channel).
+* New game icon.
+
+
+2012/08/22 RC4
+* Changed sound effects functions. The voices and sfx
+  are played directly via libnds.
+* Added various sound effects.
+* Added a new hidden cheat to reveal the entire map.
+
+
+- 2012/08/20 RC3
+* Some minor GFX changes.
+* Added cheats in-game as eastern egg.
+
+
+- 2012/08/19 RC2
+* Added the cobwebs.
+* Fire sprites remaked.
+* Added Pause menu.
+* Added animated loading screen.
+* Added several background soundtracks.
+* Removed the voices and sfx in remake mode to avoid bugs with MAXMOD. (temp)
+
+
+- 2012/08/16
+* Dragon's Lair remaked.
+* Main character remaked.
+* Improved Torches and candles.
+* Walkthrough finished.
+* Credits completed.
+* Various graphical improvements.
+
+
+- 2012/07/07
+* Added the main menu in 8 bits mode.
+* Added the options menu, with the possibility to select the
+   game mode (8 bits / Remake), language (Spanish / English) and the
+   intensity of the "scanlines" effect in 8 bits mode.
+* Added language autodetect according to the console settings.
+* The configuration of the game is saved.
+* The special enemies "Devil Archer" and "Cat" remaked.
+* The hanging lamps remaked.
+* All main Items remaked.
+* All generic enemies (Hunchback, werewolf and ghost) remaked.
+* NPC Armor, enchanted princess and Eagle remaked.
+* Main menu in remake mode done.
+* Options menu in ramek mode done.
+* Initial test for the game music (remake) and sound effects (8 bits).
+
+
+- 2012/06/06
+* Animated torchs added.
+* All backgrounds in "remake" mode done (Except Dragon's lair).
+* Opening and main menu only available in "8 bits" mode.
+
+
+- 2012/05/07
+ * You can now choose between the original or remake mode at game start.
+ * Graphics of the backgrounds in the first half of the castle completed.
+ * New algorithm for calculation of random positions of objects and some
+   corrected positions.
+ * Fixed bug that allowed to record the spell shot at the
+   top of the stairs, causing errors in the control of the character.
+ * Fixed bug where if the last life was lost in the trap of the 3
+   switches in the next game they appeared displaced.
+   (Thanks to the araubi from CEZ forums for the warning.)
+
+
+- 2012/03/29
+* Fixed a bug in the animation of the character at the end of the game,
+  that causes the character to be invisible if he was immune at the time
+  to kill the eagle.
+* Added the "Minimap" function, pressing the "X" key.
+
+
+- 2012/03/27
+* Added the animation in the fires.
+* Added the transformation of the princess to be disenchanted.
+* Added enemies "Cat" and "Archer Devil."
+* Added the "Dragon's Lair" event.
+* Added PAUSE pressing "START" button.
+* Added ending scene.
+* Added a immunity time after resurect.
+
+
+- 2012/03/14
+* First release.
+* Fully playable in "8-bit mode."

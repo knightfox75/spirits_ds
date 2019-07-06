@@ -1,0 +1,13 @@
+Encontrados y pendientes
+-------------------------
+
+
+Reportados y verificados
+-------------------------
+
+
+
+Reportados y no reproducidos
+-----------------------------
+* En modo 8 bits, el sonido se detiene unos instantes y luego, continua al
+  cambiar de nivel. (Another World, gbatemp)

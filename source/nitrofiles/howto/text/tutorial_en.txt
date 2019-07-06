@@ -1,0 +1,103 @@
+Welcome to the
+Spirits DS tutorial.
+
+Press the "A" button to
+advance the tutorial.
+Press the "START" button
+to exit the tutorial
+at anytime.
+>
+To walk around in the
+game, press
+Left or Right.
+>
+To jump, press the "B"
+button. Press Left or
+Right and the "B" button
+to jump in either
+direction.
+>
+Press Down to duck.
+To continue ducking,
+hold Down.
+>
+Press and hold Up or Down
+to use the ladder. To hang
+from the ladder mid-jump,
+press Up. To drop from the
+stone steps found
+throughout the castle,
+press Down and the
+"B" button.
+>
+Jump to activate the
+switches which open doors
+and secret passageways.
+>
+Press the "Y" button to
+shoot a paralyzing spell.
+Enemies who are
+paralyzed will only
+remain so for a brief
+amount of time, during
+which, they can not
+harm you.
+>
+If you have the appropriate
+objects, you can disenchant
+the Princess and the
+Animated Armor by
+pressing the "Y" button.
+>
+Several unique objects are
+hidden throughout the
+castle, all of which are
+required to complete the
+adventure. The first one
+that you must obtain is
+the Crystal Ball.
+>
+After you locate the
+Crystal Ball, it can be
+collected by pressing the
+"A" button while standing
+in front of it. All other
+objects will remain
+invisible until this object
+has been acquired.
+>
+Once you have the Crystal
+Ball, you will be able to
+view the location of the
+remaining objects. You can
+cycle through each location
+by pressing either the "R"
+or "L" button.
+>
+To disenchant the Princess
+and the Animated Armor you
+will need to obtain the
+Spellbook and Magic Wand.
+Once accomplished, you will
+learn a powerful new spell.
+>
+Use your newly learned
+spell to challenge the
+Evil Sorcerer, who stalks
+his prey in the form of an
+eagle that is invulnerable
+to all basic spell craft. 
+>
+Lost adventurers may call
+upon the map, which is
+magically drawn only as
+you progress. To enable or
+disable the bottom screen
+map, press the "X" button.
+>
+This completes the
+Spirits DS tutorial.
+<
+END_OF_FILE
+
+
